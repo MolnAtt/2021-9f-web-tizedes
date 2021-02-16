@@ -1,0 +1,38 @@
+body{
+    color:white;
+    background-image: url('hatter.png');
+}
+
+a:active, a:link, a:visited, a:hover{
+    color:#C0C0C0;
+}
+
+#ostobatablazat{
+    width:1000px;
+    margin: 0 auto 0 0;
+    border:0;
+    text-align: center;
+}
+
+#cimkep-container{
+    display: flex;
+    justify-content: center;
+}
+
+#alsosor td{
+
+}
+
+.link{
+    text-align: right;
+    font-style: italic;
+}
+
+p{
+    text-align: justify;
+}
+
+q{
+    font-weight: bold;
+    font-style: italic;
+}
